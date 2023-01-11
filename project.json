@@ -1,19 +1,19 @@
 {
-  "name": "ListUSAPrivateSchools_Producer",
+  "name": "ListUSAPrivateSchools_Performer",
   "description": "Process to obtain data about all private schools included in www.privateschoolreview.com service ",
   "main": "Main.xaml",
   "dependencies": {
-    "PrivateSchoolReviewEdge": "[1.0.13]",
+    "PrivateSchoolReviewEdge": "[1.0.14]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.System.Activities": "[22.10.3]",
-    "UiPath.Testing.Activities": "[22.12.0-preview]",
+    "UiPath.Testing.Activities": "[22.10.3]",
     "UiPath.UIAutomation.Activities": "[22.10.3]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.3.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
